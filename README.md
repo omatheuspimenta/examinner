@@ -9,7 +9,7 @@ The software that implements the method and all the data that allow the reproduc
 Authors:
 * [Matheus Pimenta](https://github.com/omatheuspimenta).
 * [Fabrício Lopes](https://github.com/fabriciomlopes).
-* [Glaucia Bressan]().
+* [Glaucia Bressan](https://github.com/glauciabressan).
 
 ## Citation
 If you use this software in your work, please cite our paper. (soon)
