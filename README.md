@@ -7,9 +7,9 @@ This work presents a complex network-based approach to feature extraction and au
 The software that implements the method and all the data that allow the reproducibility of the work will be freely available after the publication of the manuscript.
 
 Authors:
-* [Matheus Pimenta](https://github.com/omatheuspimenta).
-* [Fabrício Lopes](https://github.com/fabriciomlopes).
-* [Glaucia Bressan](https://github.com/glauciabressan).
+* [Matheus Pimenta](https://github.com/omatheuspimenta)
+* [Fabrício Lopes](https://github.com/fabriciomlopes)
+* [Glaucia Bressan](https://github.com/glauciabressan)
 
 ## Citation
 If you use this software in your work, please cite our paper. (soon)
